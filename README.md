@@ -5,7 +5,7 @@ I build mobile apps for small businesses, from the database to the App Store.
 - 📱 Creator of **[AppInn Platform](https://github.com/KeIndustries1/appinn-platform)**: a booking and ordering platform with a client app (AppInn), a staff app (**WorkInn, live on the App Store**) and an internal app builder
 - 🎓 Project Management student at PMC (Belgrade, Serbia)
 - 🔧 Interested in software development, IT support and product work
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **industrieske@gmail.com**
 
 **Tools I work with**
 
